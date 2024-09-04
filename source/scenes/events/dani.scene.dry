@@ -19,8 +19,8 @@ Q.rural_nsdap += 10;
 Q.unemployed_nsdap += 18;
 !}
 tags: event
-view-if: year = 1928 and month = 4
-priority: 2
-max-visits: 1
+view-if: year = 1928 and month >= 2
+priority: 10
+max-visits: 2
 
 Ex-leader of the Neo-Revisionist, has been rotting in jail awaiting his joint tribunal for too long. He has since perished from hundreds of infected rat bites.
