@@ -1,0 +1,14 @@
+title: Lenin of Pilsners
+new-page: true
+is-card: true
+tags: party_affairs
+view-if: media_timer < 1000
+on-arrival: month_actions += 1;
+card-image: img/moldenhauer.png
+max-visits: 1
+
+= Lenin of Pilsners
+
+Left delegate, Ernst Moldenhauer, has successfully made it into the Ruhr. He was nearly caught by the railway workers hired to transport him recognize him as an agent. They settle things with most of Moldenhauer's Krona coming out of his wallet and into the workers' mugs.
+
+Deemed the "Lenin of Pilsners" by the jovial workers, he made off with a car and a new name that would follow him in the days to come...
