@@ -1,0 +1,24 @@
+title: Murder
+new-page: true
+is-card: true
+tags: party_affairs
+view-if: media_timer < 1000
+on-arrival: month_actions += 1;
+card-image: img/murdered.webp
+max-visits: 3
+
+= Murder
+
+Anton Reissner has been found dead on the streets of München, three shots to the back of the head. The perpetrator is unknown and at large, having fled the scene. His last words were "Tell them I love them." in reference to his family.
+
+- @condolences
+- @spy
+
+@condolences
+title: Hold a funeral in his honor.
+on-arrival: resources -=1;
+
+@spy
+title: Investigate the circumstances.
+subtitle: You previously received info about a possible spy in the SPD, could this be connected?
+on-arrival: resources -=1;
