@@ -1,0 +1,10 @@
+title: Death of Dani Ivanov
+new-page: true
+is-card: true
+tags: party_affairs
+view-if: ideology_timer < 1000
+on-arrival: month_actions += 1; old_ideology = ideology;
+card-image: img/arbeiterbew.jpg
+max-visits: 1
+
+Ex-leader of the Neo-Revisionist, has been rotting in jail awaiting his joint tribunal for too long. He has since perished from hundreds of infected rat bites.
